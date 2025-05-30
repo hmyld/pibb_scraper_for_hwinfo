@@ -181,7 +181,7 @@ def create_gui(state):
 def login(state):
     try:
         with sync_playwright() as p:
-            with p.chromium.launch(headless=False) as browser:
+            with p.chromium.launch(headless=True) as browser:
                 with browser.new_context() as context:
                     page = context.new_page()
                     try:

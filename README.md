@@ -28,7 +28,7 @@ SCUPI 自动作业提醒工具
   
 # 3.安装步骤
   ## 1.在这里下载好py文件。
-  ## 2.去https://github.com/violetctl39/pibbEnhanced下载注入脚本pibbEnhanced.js，并与上述py文件储存在同一目录下。
+  ## 2.去 https://github.com/violetctl39/pibbEnhanced 下载注入脚本pibbEnhanced.js，并与上述py文件储存在同一目录下。
   ## 3.安装依赖：
    pip install playwright
    python -m playwright install chromium  # 安装Chromium驱动

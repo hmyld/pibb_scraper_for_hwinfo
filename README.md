@@ -19,16 +19,17 @@ SCUPI 自动作业提醒工具
   自动刷新：定时刷新页面获取最新作业信息（默认每分钟刷新一次）。
   
 ## 2.环境要求
-  Python 版本：3.8+
-  依赖库：
+  # Python版本：
+  Python 版本：3.8+ ，原生版本3.11.11
+  # 依赖库：
   playwright  # 浏览器自动化
   tkinter     # GUI界面（Python标准库，通常无需安装）
   浏览器驱动：Playwright 支持的 Chromium 内核浏览器（安装 Playwright 时会自动下载）。
   
 ## 3.安装步骤
-  1.在这里下载好py文件。
-  2.去https://github.com/violetctl39/pibbEnhanced下载注入脚本pibbEnhanced.js，并与上述py文件储存在同一目录下。
-  3.安装依赖：
+  # 1.在这里下载好py文件。
+  # 2.去https://github.com/violetctl39/pibbEnhanced下载注入脚本pibbEnhanced.js，并与上述py文件储存在同一目录下。
+  # 3.安装依赖：
    pip install playwright
    python -m playwright install chromium  # 安装Chromium驱动
 
@@ -63,6 +64,10 @@ SCUPI 自动作业提醒工具
 ## 8.贡献与反馈
   问题反馈：如需报告 bug 或提出建议，请在GitHub Issues提交。
   代码贡献：欢迎提交 PR 优化代码，建议先创建 Issue 讨论方案。
+  支持作者：用 QQ 1454988406 联系作者，如果您能赏给作者一瓶百事可乐，作者会很开心，并有继续改进代码的动力。
   开发者：Ose Chen - SCUPI
   邮箱：1454988406@qq.com
-  项目地址：GitHub 仓库链接
+  项目地址：GitHub [仓库链接](https://github.com/hmyld/pibb_scraper_for_hwinfo)
+
+## 9.效果预览
+![QQ_1748636026758](https://github.com/user-attachments/assets/2fa3aaa5-935b-4ef5-9d23-2b2c1b3254f3)

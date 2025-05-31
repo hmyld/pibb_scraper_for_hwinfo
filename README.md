@@ -69,5 +69,5 @@ SCUPI 自动作业提醒工具
   邮箱：1454988406@qq.com
   项目地址：GitHub [仓库链接](https://github.com/hmyld/pibb_scraper_for_hwinfo)
 
-## 9.效果预览
+# 9.效果预览
 ![QQ_1748636026758](https://github.com/user-attachments/assets/2fa3aaa5-935b-4ef5-9d23-2b2c1b3254f3)
